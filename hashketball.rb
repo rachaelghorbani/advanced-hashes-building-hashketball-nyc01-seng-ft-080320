@@ -1,4 +1,9 @@
 def game_hash
-  hashketball = {}
+  hashketball = {
+    :home => {
+              :team_name => ""
+    }
+    
+  }
   hashketball
 end
